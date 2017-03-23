@@ -1,0 +1,4 @@
+c:\users\pat\documents\visual studio 2015\Projects\MagicEightBallServiceLib\MagicEightBallServiceLib\bin\Release\MagicEightBallServiceLib.dll
+c:\users\pat\documents\visual studio 2015\Projects\MagicEightBallServiceLib\MagicEightBallServiceLib\bin\Release\MagicEightBallServiceLib.pdb
+c:\users\pat\documents\visual studio 2015\Projects\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Release\MagicEightBallServiceLib.dll
+c:\users\pat\documents\visual studio 2015\Projects\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Release\MagicEightBallServiceLib.pdb

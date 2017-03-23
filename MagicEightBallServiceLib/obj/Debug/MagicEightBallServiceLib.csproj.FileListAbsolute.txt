@@ -1,0 +1,5 @@
+c:\users\pat\documents\visual studio 2015\Projects\MagicEightBallServiceLib\MagicEightBallServiceLib\bin\Debug\MagicEightBallServiceLib.dll
+c:\users\pat\documents\visual studio 2015\Projects\MagicEightBallServiceLib\MagicEightBallServiceLib\bin\Debug\MagicEightBallServiceLib.pdb
+c:\users\pat\documents\visual studio 2015\Projects\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Debug\MagicEightBallServiceLib.dll
+c:\users\pat\documents\visual studio 2015\Projects\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Debug\MagicEightBallServiceLib.pdb
+c:\users\pat\documents\visual studio 2015\Projects\MagicEightBallServiceLib\MagicEightBallServiceLib\obj\Debug\MagicEightBallServiceLib.csprojResolveAssemblyReference.cache
